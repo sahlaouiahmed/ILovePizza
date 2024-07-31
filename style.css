@@ -31,7 +31,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    background: rgb(237, 147, 229);
+    background-color: whitesmoke;
     padding: 1rem 7%;
     display: flex;
     align-items: center;
@@ -432,7 +432,7 @@ section{
 /* footer section css */
 
 .footer{
-    background: rgb(237, 147, 229);
+    background-color: whitesmoke;
 }
 .footer .box-container{
     display:grid;
