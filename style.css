@@ -378,7 +378,6 @@ section{
 }
 
 /* Order & reservation section css */
-.reservation img ,
 .order img {
     height: 80px;
     width: 80px;
@@ -408,7 +407,7 @@ section{
     width:48%;
 }
 
-.reservation form .inputBox .input span
+.reservation form .inputBox .input span,
 .order form .inputBox .input span{
     display:block;
     padding: 0.5rem 0;
@@ -417,7 +416,7 @@ section{
 }
 
 .reservation form .inputBox .input input,
-.reservation form .inputBox .input textarea 
+.reservation form .inputBox .input textarea,
 .order form .inputBox .input input,
 .order form .inputBox .input textarea {
     background: #eee;
@@ -436,7 +435,7 @@ section{
     resize:none;
 }
 
-.reservation form .btn
+.reservation form .btn,
 .order form .btn{
     margin-top: 0;
 }
