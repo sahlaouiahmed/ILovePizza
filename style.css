@@ -471,3 +471,54 @@ section{
 }
 
 
+
+
+
+
+
+
+/* Media queries */
+@media screen and (max-width:991px) {
+    html {
+        font-size: 55%;
+    }
+
+    header {
+        padding: 1rem 2rem;
+    }
+}
+
+@media screen and (max-width:768px) {
+    header .icons #menu-bars {
+        display: inline-block;
+    }
+
+    header .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        border-top: 0.1rem solid rgba(0, 0, 0, 0.2);
+        border-bottom:0.1rem solid rgba(0, 0, 0, 0.2);
+        padding: 1rem;
+        clip-path:circle(0% at 95.3% 8.5% );
+    }
+    header .navbar.active {
+        clip-path: circle(140% at 95.3% 8.5%);
+    }
+
+    header .navbar a {
+        display: block;
+        padding: 1.5rem;
+        margin: 1rem;
+        font-size: 2rem;
+        background: #eee;
+    }
+}
+
+@media screen and (max-width:991px) {
+    html {
+        font-size: 50%;
+    }
+}

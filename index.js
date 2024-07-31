@@ -1,3 +1,11 @@
+/* resposive function */
+let menu = document.querySelector('#menu-bars');
+let navbar = document.querySelector('.navbar');
+menu.onclick = () => {
+    menu.classList.toggle('fa-times');
+    navbar.classList.toggle('active');
+}
+
 /* swiperjs javascript code for home slides from swiperjs.com */
 var swiper = new Swiper(".container", {
     spaceBetween: 150,
@@ -37,3 +45,5 @@ var swiper = new Swiper(".review-block", {
     },
     loop: true,
 });
+
+
