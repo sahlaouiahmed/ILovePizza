@@ -60,7 +60,7 @@ header .navbar a.active,
 header .navbar a:hover {
     color: #fff;
     background: var(--orange);
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
 }
 header .logo {
     color: var(--black);
@@ -90,7 +90,6 @@ header .icons{
     align-items: center;
     justify-content: center;
 }
-header .icons a,
 header .icons i {
     cursor: pointer;
     margin-left: .5rem;
@@ -103,8 +102,6 @@ header .icons i {
     border-radius: 25%;
     background: #eee;
 }
-
-header .icons a:hover,
 header .icons i:hover {
     color: #fff;
     background: var(--orange);
@@ -196,7 +193,7 @@ section{
 }
 .btn:hover{
     background: var(--orange);
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
 }
 
 .swiper-pagination-bullet-active{
@@ -233,23 +230,6 @@ section{
     position: relative;
     overflow: hidden;
     text-align: center;
-}
-.pizzas .box-container .box .fa-heart {
-    position: absolute;
-    top: 1.5rem;
-    background: #eee;
-    border-radius: 25%;
-    width: 3rem;
-    height: 3rem;
-    line-height: 3rem;
-    font-size: 2rem;
-    color: var(--black);
-    right: 1.5rem;
-}
-
-.pizzas .box-container .box .fa-heart:hover {
-    background: var(--orange);
-    color: #eee;
 }
 
 .pizzas .box-container .box img {
