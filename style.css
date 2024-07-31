@@ -202,3 +202,79 @@ section{
 .swiper-pagination-bullet-active{
     background: var(--orange);
 }
+
+/* Our pizza Section css */
+.h3heading {
+    text-align: center;
+    color:var(--black);
+    font-size:3rem;
+    padding-bottom:2rem;
+}
+.h1heading {
+    text-align: center;
+    color: var(--orange);
+    font-size:2rem;
+    padding-top: 1rem;
+    text-transform: uppercase;
+}
+
+.pizzas .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit , minmax(30rem,1fr));
+    gap:1rem;
+}
+
+.pizzas .box-container .box {
+    padding:2.5rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    border: 0.1rem sloid black;
+    box-shadow: var(--box-shadow);
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+.pizzas .box-container .box .fa-heart {
+    position: absolute;
+    top: 1.5rem;
+    background: #eee;
+    border-radius: 25%;
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 2rem;
+    color: var(--black);
+    right: 1.5rem;
+}
+
+.pizzas .box-container .box .fa-heart:hover {
+    background: var(--orange);
+    color: #eee;
+}
+
+.pizzas .box-container .box img {
+    height: auto;
+    width: 100%;
+}
+.pizzas .box-container .box img{
+    height:auto;
+    width: 100%;
+}
+.pizzas .box-container .box h3{
+    color: var(--black);
+    font-size: 3rem;
+}
+.pizzas .box-container .box .stars {
+    padding: 1rem 0;
+}
+.pizzas .box-container .box .stars i{
+    font-size: 1.8rem;
+    color:var(--orange);
+    text-align: center;
+}
+.pizzas .box-container .box span{
+    color: var(--black);
+    font-weight: bolder;
+    margin-right:1rem; 
+    font-size: 2.5rem;
+}
