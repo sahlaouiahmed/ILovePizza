@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
+
 :root{
     --orange:rgb(239, 110, 5);
     --black:#080324;
@@ -5,7 +7,7 @@
     --box-shadow: 0 0.5rem 1.5rem rgba(0,0,0,.1);
 }
 *{
-    font-family:sans-serif;
+    font-family:"karla" , sans-serif;
     margin:0;
     padding:0;
     box-sizing:border-box;
@@ -130,13 +132,13 @@ header .icons .search label {
     font-size: 1rem;
     line-height: 3rem;
     color: #fff;
-    background: var(--orange);
+    background: var(--black);
     text-align: center;
     cursor: pointer;
 }
 
 header .search label:hover {
-    background: black;
+    background: var(--orange);
 }
 
 /* Home section css */
