@@ -614,45 +614,45 @@
 
             <div class="inputBox">
                 <div class="input">
-                    <span>Full name</span>
-                    <input type="text" placeholder="John Doe ">
+                    <label for="full-name">Full Name</label>
+                    <input type="text" id="full-name" placeholder="John Doe " required>
                 </div>
                 <div class="input">
-                    <span>Phone number</span>
-                    <input type="number" placeholder="Phone number">
-                </div>
-            </div>
-            <div class="inputBox">
-                <div class="input">
-                    <span>Order</span>
-                    <input type="text" placeholder="Pizza name">
-                </div>
-                <div class="input">
-                    <span>Size</span>
-                    <input type="text" placeholder="Standard , medium or large">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" id="phone" placeholder="Phone number" required>
                 </div>
             </div>
             <div class="inputBox">
                 <div class="input">
-                    <span>Quantity</span>
-                    <input type="number" placeholder="How many orders?">
+                    <label for="orders"></label>
+                    <input type="text" id="orders" placeholder="Pizza name" required>
                 </div>
                 <div class="input">
-                    <span>Date and Time </span>
-                    <input type="datetime-local">
+                    <label for="size">Pizza's Size</label>
+                    <input type="text" id="size" placeholder="Standard , medium or large" required>
                 </div>
             </div>
             <div class="inputBox">
                 <div class="input">
-                    <span>Address</span>
-                    <textarea name="address" placeholder="Address" id="address" cols="30" rows="10"></textarea>
+                    <label for="quantity">Quantity</label>
+                    <input type="number" id ="quantity" placeholder="How many orders?" required>
                 </div>
                 <div class="input">
-                    <span>Message</span>
+                    <label for="time">Date and Time</label>
+                    <input type="datetime-local" id="time" required>
+                </div>
+            </div>
+            <div class="inputBox">
+                <div class="input">
+                    <label for="address">Address</label>
+                    <textarea name="address" placeholder="Address" id="address" cols="30" rows="10" required></textarea>
+                </div>
+                <div class="input">
+                    <label for="message">Message</label>
                     <textarea name="message" placeholder="Message" id="message" cols="30" rows="10"></textarea>
                 </div>
             </div>
-            <input type="submit" value="Order now" class="btn">
+            <a href="ordersub.html" class="btn"> Order Now</a>
         </form>
     </section>
 
@@ -673,6 +673,7 @@
                 <a href="#pizzas">Our pizza</a>
                 <a href="#review">Review</a>
                 <a href="#order">Order</a>
+                <a href="reservation.html">Reserve a table</a>
             </div>
             <div class="box">
                 <h3>Contact infos</h3>
