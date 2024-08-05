@@ -226,7 +226,7 @@ section{
     padding:2.5rem;
     background: #fff;
     border-radius: 0.5rem;
-    border: 0.1rem sloid black;
+    border: 0.1rem solid black;
     box-shadow: var(--box-shadow);
     position: relative;
     overflow: hidden;
