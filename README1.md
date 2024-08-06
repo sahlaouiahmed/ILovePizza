@@ -4,7 +4,7 @@ I Love Pizza is a website for pizza lovers, where they can place orders for free
 
 The website is an interface between us and our customers, as it displays all the types of our pizza. Our most requested pizza, all other types of pizza, a "Why choose us" section, a section for customer comments, and a section for orders and a section to book a table if the customer wants to visit us and enjoy the most delicious pizzas.
 
-![home page](assets/media/ilovepizza.mp4)
+![home page]()
 
 # Features
 ***
