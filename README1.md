@@ -4,7 +4,7 @@ I Love Pizza is a website for pizza lovers, where they can place orders for free
 
 The website is an interface between us and our customers, as it displays all the types of our pizza. Our most requested pizza, all other types of pizza, a "Why choose us" section, a section for customer comments, and a section for orders and a section to book a table if the customer wants to visit us and enjoy the most delicious pizzas.
 
-![home page]()
+![home page](assets/media/ilovepizza.mp4)
 
 # Features
 ***
@@ -67,5 +67,46 @@ Once the customer has filled the form and submitted it , he will recieve a confi
 
 -----------------
 ### Footer :
+The footer contains : 
+
+1. Locations
+2. Usefull links
+3. Contact infos
+4. Social medias links 
 
 ![Oreder recieved](assets/media/footer.png)
+
+------------------
+
+## Testing
+I tried to do a lot of test to make sure everything working as expected.
+1. Testing all the links.
+2. Testing order and rservation forms
+3. Testing the good functioning of the site on all types of devices ( phone , tablet and desktop ).
+4. Testing all images and files paths 
+
+I tired too to make sure that my HTML and CSS codes contain 0 errors by using https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
+
+### Validator Testing
+* HTML : No errors were returned when passing through the official W3C validator https://validator.w3.org/ .
+* CSS : No errors were found when passing through the official Jigsaw validator https://jigsaw.w3.org/css-validator/ .
+
+-----------------
+
+## Deployment 
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the Settings tab
+    * From the source section drop-down menu, select the Master Branch
+    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+
+The live link can be found here - https://sahlaouiahmed.github.io/FirstProject/
+
+------------------
+
+## Credits
+
+### Contents
+
+### Media
