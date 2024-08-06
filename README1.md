@@ -27,21 +27,21 @@ For the pagination , I have used a a javascript code from https://swiperjs.com/
 
 ### Our Pizza :
 In this section , the user can find all our pizza , their prices and can also place an order.
-![Our Pizza section](assets/media/our-pizza-section.png)
+![Our Pizza section](assets/media/our-pizza.png)
 
 ----------------
 
 ### About us :
 In this section , a short description about and some reasons why should pizza-lovers choose us , such as the free delivery , easy payments , 24/7 service.
 
-![About us section](assets/media/about-us-section.png)
+![About us section](assets/media/about-us.png)
 
 ----------------
 
 ### Review section :
 In this section , the website visitors can find the reviews of some of our custumors , thier feedback about our pizza and our service.
 
-![Review section](assets/media/review-section.png)
+![Review section](assets/media/review.png)
 
 For the pagination , I have used a a javascript code from https://swiperjs.com/
 
@@ -49,21 +49,21 @@ For the pagination , I have used a a javascript code from https://swiperjs.com/
 ### Order section: 
 In this section the customer can place an order by filling the form ( Name , last name , phone number , pizza size , address ....)
 
-![Oreder section](assets/media/order-section.png)
+![Oreder section](assets/media/order-form.png)
 
 Once the customer has filled the form and submitted it , he will recieve a confirmation message of his order :
 
-![Oreder recieved](assets/media/order-sub.png)
+![Oreder recieved](assets/media/conf-order.png)
 
 -----------------
 ### Reserve a table :
 In this section the customer can reserve a table by filling the form ( Name , last name , phone number , email , address ....)
 
-![Oreder recieved](assets/media/form-reservation.png)
+![Oreder recieved](assets/media/reservation-form.png)
 
 Once the customer has filled the form and submitted it , he will recieve a confirmation message of his reservation :
 
-![Oreder recieved](assets/media/reservation-msg.png)
+![Oreder recieved](assets/media/conf-reservation.png)
 
 -----------------
 ### Footer :
