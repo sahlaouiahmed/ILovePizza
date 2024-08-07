@@ -81,9 +81,10 @@ The footer contains :
 ## Testing
 I tried to do a lot of test to make sure everything working as expected.
 1. Testing all the links.
-2. Testing order and rservation forms
+2. Testing order and rservation forms.
 3. Testing the good functioning of the site on all types of devices ( phone , tablet and desktop ).
-4. Testing all images and files paths 
+4. Testing all images and files paths.
+5. Testing the good functioning of the site on all browsers (Chrome, Firefox, Opera, Safari & Co)
 
 I tired too to make sure that my HTML and CSS codes contain 0 errors by using https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
 
