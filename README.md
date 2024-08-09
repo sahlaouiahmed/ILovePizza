@@ -120,7 +120,9 @@ The live link can be found here - https://sahlaouiahmed.github.io/FirstProject/
 #### Contents
 
 * Instructions on how to write some css and html codes were taken from https://www.youtube.com/ and https://www.w3schools.com/ .
-* Instructions on how to make website responsive were taken from some YouTube tutorial.
+* Instructions on how to make website responsive were taken from some YouTube tutorials 
+1. https://www.youtube.com/@BroCodez
+2. https://www.youtube.com/@ElzeroWebSchool
 * The javascript codes for paginations were taken from https://swiperjs.com/ .
 * The icons were taken from https://fontawesome.com/ .
 
