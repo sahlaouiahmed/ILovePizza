@@ -90,7 +90,10 @@ I tried to do a lot of test to make sure everything working as expected.
 
 I tired too to make sure that my HTML and CSS codes contain 0 errors by using https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
 
-#### bugs
+#### bugs :
+ Sometimes when I refresh the site , the slide is a bit translated in the direction of the left , I tried to fix it but I think the Problem is from the Javascript code that I used for the pagination.
+![Oreder recieved](assets/media/bug.png)
+
 
 
 #### Validator Testing
