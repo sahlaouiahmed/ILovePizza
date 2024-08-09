@@ -2,6 +2,8 @@
 ***
 I Love Pizza is a website for pizza lovers, where they can place orders for free delivery to their residential address or book a table for them to spend some funny time at our restaurant. I Love Pizza focuses a lot on the quality of the pizza provided to the customer and on making him happy and satisfied.
 
+The live link can be found here : https://sahlaouiahmed.github.io/FirstProject/
+
 The website is an interface between us and our customers, as it displays all the types of our pizza. Our most requested pizza, all other types of pizza, a "About us" section, a section for customer comments, a section for orders and a section to book a table if the customer wants to visit us and enjoy our most delicious pizzas.
 
 ![home page](assets/media/myWebsite.png)
@@ -9,7 +11,7 @@ The website is an interface between us and our customers, as it displays all the
 ## Features
 ***
 #### Navigation Bar :
-Tne navigation bar enables the user to navigate between sections of the website smoothly , as each element contains a link that takes the user user to its own section or page.
+The navigation bar enables the user to navigate between sections of the website smoothly , as each element contains a link that takes the user user to its own section or page.
 
 ![Navigation Bar](assets/media/navigation-bar.png)
 
@@ -87,6 +89,9 @@ I tried to do a lot of test to make sure everything working as expected.
 5. Testing the good functioning of the site on all browsers (Chrome, Firefox, Opera, Safari & Co)
 
 I tired too to make sure that my HTML and CSS codes contain 0 errors by using https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
+
+#### bugs
+
 
 #### Validator Testing
 * HTML : No errors were returned when passing through the official W3C validator https://validator.w3.org/ .
